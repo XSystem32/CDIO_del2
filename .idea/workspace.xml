@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="20280060-adbd-4ff1-b3ab-1b4bb52b745c" name="Default Changelist" comment="har lavet opret spiller og opret balancen">
-      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2020__17_53__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIO_del2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CDIO_del2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -60,11 +39,6 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
   </component>
   <component name="RunManager" selected="Application.Board">
     <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,7 +86,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -124,7 +98,6 @@
       <option name="presentableId" value="Default" />
       <updated>1604075161489</updated>
       <workItem from="1604075505639" duration="712000" />
-      <workItem from="1604084661874" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="har lavet opret spiller og opret balancen">
       <created>1604076191594</created>
@@ -156,34 +129,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="har lavet opret spiller og opret balancen" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="285" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1604085139831">
-      <screen x="0" y="23" width="1680" height="959" />
-    </state>
-    <state x="578" y="285" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1680.959@0.23.1680.959" timestamp="1604085139831" />
-    <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604085209083">
-      <screen x="0" y="23" width="1680" height="959" />
-    </state>
-    <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.959@0.23.1680.959" timestamp="1604085209083" />
     <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1604075643844">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1604075643844" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604079069675">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1604087717934">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604079069675" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604079069675">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1604087717934" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1604087717933">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604079069675" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604079069675">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1604087717933" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1604087717932">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604079069675" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604079069675">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1604087717932" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1604087717933">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604079069675" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1604087717933" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1604075527052">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -192,10 +161,11 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="313" y="194" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1604076201507" />
-    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604079015751">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="623" y="446" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604086613356">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1604079015751" />
+    <state x="623" y="446" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1200@0.0.1920.1200" timestamp="1604086613356" />
     <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604078986567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
