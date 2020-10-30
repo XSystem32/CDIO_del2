@@ -12,5 +12,16 @@ public class Operations {
         Balance balance = new Balance(1000);
         return balance;
     }
+
+
+
+    public static int rollDice() {
+        int min = 2;
+        int max = 12;
+        int range = max - min + 1;
+        return (int)((Math.random() * range) + min);
+    }
+
+
 }
 
