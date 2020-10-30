@@ -13,8 +13,6 @@ public class Operations {
         return balance;
     }
 
-
-
     public static int rollDice() {
         int min = 2;
         int max = 12;
